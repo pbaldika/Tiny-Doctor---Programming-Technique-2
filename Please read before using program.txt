@@ -1,0 +1,6 @@
+Please read before running the program:
+
+This program needed a dataset so that it will run properly, please
+make sure a list.txt file is in the same place as the .cpp file. 
+If the program doesnt work please chech if list.txt exist in the 
+same place, if not please copy from the zip file. thank you
